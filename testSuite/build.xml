@@ -2,7 +2,7 @@
 
 <project name="ant-jmeter-test" default="run" basedir=".">
 
-<property name="jmeterPath" value="D:\apache-jmeter-4.0"/>
+<property name="jmeterPath" value="E:\apache-jmeter-4.0"/>
 <property name="mailhost" value="smtp.163.com"/>
 <property name="username" value="ytfdzsc@163.com"/>
 <property name="password" value="cj13675515883zsc"/>
