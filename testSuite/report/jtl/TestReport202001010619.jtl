@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="214" it="0" lt="214" ct="92" ts="1577873942305" s="true" lb="查询手机归属地" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="674" sby="638" ng="1" na="1"/>
+
+</testResults>
